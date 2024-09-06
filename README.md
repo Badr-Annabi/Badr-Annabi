@@ -1,4 +1,4 @@
-<img src="[https://camo.githubusercontent.com/5acdb1f0a96acf386cef9c45e51f75101d8b35bbe66d2a8f823cb20f8c34f481/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a656e7249374258557a774a456f6d6c712e676966](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" alt="Animated GIF" style="width:100%;">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Animated GIF" style="width:100%;">
 
 <h1 align="center">Hi 👋, I'm Badr Annabi</h1>
 <h3 align="center">A student with a passion for SoftWare engineering at ALX (Holberton School) from Morocco.</h3>
