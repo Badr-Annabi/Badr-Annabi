@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Animated GIF" style="width:100%;">
 
 <h1 align="center">Hi 👋, I'm Badr Annabi</h1>
-<h3 align="center">A student with a passion for SoftWare engineering at ALX (Holberton School) from Morocco.</h3>
+<h3 align="center">I am a **Software Engineer** specializing in **Backend Development**, with a **Bachelor's degree in Applied Mathematics** and a certification from **ALX powered by Holberton School**. Based in **Morocco**, I am passionate about building innovative and efficient software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badr-annabi&label=Profile%20views&color=0e75b6&style=flat" alt="badr-annabi" /> </p>
 
